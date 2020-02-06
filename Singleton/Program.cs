@@ -11,7 +11,7 @@ namespace Singleton
     {
         static void Main(string[] args)
         {
-           
+            Console.WriteLine("master 1 commit");
         }
     }
 }
